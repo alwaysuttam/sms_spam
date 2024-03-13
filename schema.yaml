@@ -1,1 +1,9 @@
-key: val
+COLUMNS:
+  Target : object
+  Text : object
+
+
+TARGET_COLUMN:
+  name: Target
+
+  
