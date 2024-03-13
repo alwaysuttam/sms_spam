@@ -1,6 +1,10 @@
 COLUMNS:
-  Target : object
+  Target : int64
   Text : object
+  no_of_charecters: int64
+  no_of_words: int64
+  no_of_sentences: int64
+  Transformed_text: object
 
 
 TARGET_COLUMN:
